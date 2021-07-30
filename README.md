@@ -1,4 +1,4 @@
-#A simple monitoring of GPU usage in local area network 
+# A simple monitoring of GPU usage in local area network 
     this code is based on python and socket  
 ## Instructions：
     
